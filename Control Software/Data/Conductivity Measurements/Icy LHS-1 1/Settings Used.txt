@@ -1,0 +1,13 @@
+101 - 101: 60min heating, 1.3V THS,  0.5K/h gradient
+102 - 118: 60min heating, 1.5V THS,  0.5K/h gradient
+119 - 129: 60min heating, 1.5V THS, -0.5K/h gradient
+130 - 141: 60min heating, 1.3V THS, -0.5K/h gradient
+142 - 142: 120min heating, 1.3V THS, set to 130K
+143 - 143: 240min heating, 1.1V THS, set to 130K
+
+tmp switch off: 23.04.2024 10:08
+tmp at 977 Hz: 10:20
+tmp at 870 Hz: 10:23
+tmp at 566 Hz: 10:32
+tmp at 0 Hz: 11:00 (ca, nicht genau geschaut)
+pre pump off 11:19

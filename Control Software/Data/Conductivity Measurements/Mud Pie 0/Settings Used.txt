@@ -1,0 +1,3 @@
+001 : 1.5V, 60min, manual
+002 - : 1.75V, 60min, 0.5K/h sweep
+changed at some point but don't remember when

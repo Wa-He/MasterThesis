@@ -1,0 +1,4 @@
+time,sample_holder_res,sample_holder_temp,exhaust_res,exhaust_temp,target_temp,cooling_active,heating_active,proportional,integral,derivative
+2023-11-18 14:34:49,672.374535,190.366,198.509035,76.135,-1.000,0,0,0,0,0
+2023-11-18 14:34:53,672.407619,190.375,198.508737,76.135,-1.000,0,0,0,0,0
+2023-11-18 14:34:57,672.439213,190.382,198.507843,76.135,-1.000,0,0,0,0,0

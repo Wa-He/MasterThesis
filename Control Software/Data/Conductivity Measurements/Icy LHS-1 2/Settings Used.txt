@@ -1,0 +1,6 @@
+201 - 202 : 1.75V, 60min, manual
+203 - 203 : 2V, 60min, manual
+204 - : 1.8V, 60min, 0.5K/h Gradient
+somewhere inbetween 1K/h gradient
+23.06.2024 20:54: 2.5V, 60min, 1K/h Gradient
+24.06.2024 08:59: TMP off

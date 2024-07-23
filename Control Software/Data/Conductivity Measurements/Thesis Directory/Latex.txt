@@ -1,0 +1,4019 @@
+
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 01 .}
+        \label{fig:Appendix_Dry LHS-1 S101 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 02 .}
+        \label{fig:Appendix_Dry LHS-1 S102 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 03 .}
+        \label{fig:Appendix_Dry LHS-1 S103 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 04 .}
+        \label{fig:Appendix_Dry LHS-1 S104 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 05 .}
+        \label{fig:Appendix_Dry LHS-1 S105 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 06 .}
+        \label{fig:Appendix_Dry LHS-1 S106 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 07 .}
+        \label{fig:Appendix_Dry LHS-1 S107 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 08 .}
+        \label{fig:Appendix_Dry LHS-1 S108 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 09 .}
+        \label{fig:Appendix_Dry LHS-1 S109 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 10 .}
+        \label{fig:Appendix_Dry LHS-1 S110 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 11 .}
+        \label{fig:Appendix_Dry LHS-1 S111 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 12 .}
+        \label{fig:Appendix_Dry LHS-1 S112 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 13 .}
+        \label{fig:Appendix_Dry LHS-1 S113 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 14 .}
+        \label{fig:Appendix_Dry LHS-1 S114 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 15 .}
+        \label{fig:Appendix_Dry LHS-1 S115 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 16 .}
+        \label{fig:Appendix_Dry LHS-1 S116 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 17 .}
+        \label{fig:Appendix_Dry LHS-1 S117 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 18 .}
+        \label{fig:Appendix_Dry LHS-1 S118 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 19 .}
+        \label{fig:Appendix_Dry LHS-1 S119 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 20 .}
+        \label{fig:Appendix_Dry LHS-1 S120 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 21 .}
+        \label{fig:Appendix_Dry LHS-1 S121 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 22 .}
+        \label{fig:Appendix_Dry LHS-1 S122 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 23 .}
+        \label{fig:Appendix_Dry LHS-1 S123 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 24 .}
+        \label{fig:Appendix_Dry LHS-1 S124 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 25 .}
+        \label{fig:Appendix_Dry LHS-1 S125 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 26 .}
+        \label{fig:Appendix_Dry LHS-1 S126 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 27 .}
+        \label{fig:Appendix_Dry LHS-1 S127 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_28 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_28 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 28 .}
+        \label{fig:Appendix_Dry LHS-1 S128 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_29 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_29 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 29 .}
+        \label{fig:Appendix_Dry LHS-1 S129 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_30 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_30 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 30 .}
+        \label{fig:Appendix_Dry LHS-1 S130 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_31 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_31 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 31 .}
+        \label{fig:Appendix_Dry LHS-1 S131 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_32 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_32 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 32 .}
+        \label{fig:Appendix_Dry LHS-1 S132 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_33 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_33 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 33 .}
+        \label{fig:Appendix_Dry LHS-1 S133 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_34 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_34 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 34 .}
+        \label{fig:Appendix_Dry LHS-1 S134 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_35 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_35 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 35 .}
+        \label{fig:Appendix_Dry LHS-1 S135 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_36 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_36 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 36 .}
+        \label{fig:Appendix_Dry LHS-1 S136 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_37 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_37 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 37 .}
+        \label{fig:Appendix_Dry LHS-1 S137 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_38 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_38 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 38 .}
+        \label{fig:Appendix_Dry LHS-1 S138 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_39 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_39 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 39 .}
+        \label{fig:Appendix_Dry LHS-1 S139 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_40 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_40 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 40 .}
+        \label{fig:Appendix_Dry LHS-1 S140 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_41 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_41 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 41 .}
+        \label{fig:Appendix_Dry LHS-1 S141 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_42 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_42 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 42 .}
+        \label{fig:Appendix_Dry LHS-1 S142 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_43 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_43 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 43 .}
+        \label{fig:Appendix_Dry LHS-1 S143 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_44 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_44 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 44 .}
+        \label{fig:Appendix_Dry LHS-1 S144 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_45 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_45 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 45 .}
+        \label{fig:Appendix_Dry LHS-1 S145 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_46 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_46 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 46 .}
+        \label{fig:Appendix_Dry LHS-1 S146 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_47 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_47 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 47 .}
+        \label{fig:Appendix_Dry LHS-1 S147 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_48 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_48 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 48 .}
+        \label{fig:Appendix_Dry LHS-1 S148 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_49 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_49 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 49 .}
+        \label{fig:Appendix_Dry LHS-1 S149 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_50 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_50 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 50 .}
+        \label{fig:Appendix_Dry LHS-1 S150 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_51 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_51 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 51 .}
+        \label{fig:Appendix_Dry LHS-1 S151 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_52 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_52 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 52 .}
+        \label{fig:Appendix_Dry LHS-1 S152 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_53 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_53 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 53 .}
+        \label{fig:Appendix_Dry LHS-1 S153 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_54 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_54 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 54 .}
+        \label{fig:Appendix_Dry LHS-1 S154 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_55 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_55 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 55 .}
+        \label{fig:Appendix_Dry LHS-1 S155 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_56 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_56 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 56 .}
+        \label{fig:Appendix_Dry LHS-1 S156 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_57 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_57 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 57 .}
+        \label{fig:Appendix_Dry LHS-1 S157 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_58 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_58 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 58 .}
+        \label{fig:Appendix_Dry LHS-1 S158 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_59 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 0_59 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S1 measurement 59 .}
+        \label{fig:Appendix_Dry LHS-1 S159 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 01 .}
+        \label{fig:Appendix_Dry LHS-1 S201 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 02 .}
+        \label{fig:Appendix_Dry LHS-1 S202 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 03 .}
+        \label{fig:Appendix_Dry LHS-1 S203 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 04 .}
+        \label{fig:Appendix_Dry LHS-1 S204 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 05 .}
+        \label{fig:Appendix_Dry LHS-1 S205 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 06 .}
+        \label{fig:Appendix_Dry LHS-1 S206 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 07 .}
+        \label{fig:Appendix_Dry LHS-1 S207 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 08 .}
+        \label{fig:Appendix_Dry LHS-1 S208 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 09 .}
+        \label{fig:Appendix_Dry LHS-1 S209 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 10 .}
+        \label{fig:Appendix_Dry LHS-1 S210 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 11 .}
+        \label{fig:Appendix_Dry LHS-1 S211 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 12 .}
+        \label{fig:Appendix_Dry LHS-1 S212 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 13 .}
+        \label{fig:Appendix_Dry LHS-1 S213 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 14 .}
+        \label{fig:Appendix_Dry LHS-1 S214 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 15 .}
+        \label{fig:Appendix_Dry LHS-1 S215 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 16 .}
+        \label{fig:Appendix_Dry LHS-1 S216 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 17 .}
+        \label{fig:Appendix_Dry LHS-1 S217 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 18 .}
+        \label{fig:Appendix_Dry LHS-1 S218 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 19 .}
+        \label{fig:Appendix_Dry LHS-1 S219 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 20 .}
+        \label{fig:Appendix_Dry LHS-1 S220 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 21 .}
+        \label{fig:Appendix_Dry LHS-1 S221 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 22 .}
+        \label{fig:Appendix_Dry LHS-1 S222 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 23 .}
+        \label{fig:Appendix_Dry LHS-1 S223 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 24 .}
+        \label{fig:Appendix_Dry LHS-1 S224 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 25 .}
+        \label{fig:Appendix_Dry LHS-1 S225 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 26 .}
+        \label{fig:Appendix_Dry LHS-1 S226 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 27 .}
+        \label{fig:Appendix_Dry LHS-1 S227 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_28 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_28 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 28 .}
+        \label{fig:Appendix_Dry LHS-1 S228 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_29 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_29 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 29 .}
+        \label{fig:Appendix_Dry LHS-1 S229 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_30 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_30 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 30 .}
+        \label{fig:Appendix_Dry LHS-1 S230 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_31 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_31 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 31 .}
+        \label{fig:Appendix_Dry LHS-1 S231 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_32 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_32 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 32 .}
+        \label{fig:Appendix_Dry LHS-1 S232 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_33 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_33 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 33 .}
+        \label{fig:Appendix_Dry LHS-1 S233 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_34 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry LHS-1 1_34 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry LHS-1 S2 measurement 34 .}
+        \label{fig:Appendix_Dry LHS-1 S234 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 01 .}
+        \label{fig:Appendix_Dry TUBS S101 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 02 .}
+        \label{fig:Appendix_Dry TUBS S102 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 03 .}
+        \label{fig:Appendix_Dry TUBS S103 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 04 .}
+        \label{fig:Appendix_Dry TUBS S104 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 05 .}
+        \label{fig:Appendix_Dry TUBS S105 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 06 .}
+        \label{fig:Appendix_Dry TUBS S106 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 07 .}
+        \label{fig:Appendix_Dry TUBS S107 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 08 .}
+        \label{fig:Appendix_Dry TUBS S108 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 09 .}
+        \label{fig:Appendix_Dry TUBS S109 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 10 .}
+        \label{fig:Appendix_Dry TUBS S110 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 11 .}
+        \label{fig:Appendix_Dry TUBS S111 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 12 .}
+        \label{fig:Appendix_Dry TUBS S112 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 13 .}
+        \label{fig:Appendix_Dry TUBS S113 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 14 .}
+        \label{fig:Appendix_Dry TUBS S114 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 15 .}
+        \label{fig:Appendix_Dry TUBS S115 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 16 .}
+        \label{fig:Appendix_Dry TUBS S116 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 17 .}
+        \label{fig:Appendix_Dry TUBS S117 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 18 .}
+        \label{fig:Appendix_Dry TUBS S118 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 19 .}
+        \label{fig:Appendix_Dry TUBS S119 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 20 .}
+        \label{fig:Appendix_Dry TUBS S120 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 21 .}
+        \label{fig:Appendix_Dry TUBS S121 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 22 .}
+        \label{fig:Appendix_Dry TUBS S122 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 23 .}
+        \label{fig:Appendix_Dry TUBS S123 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 24 .}
+        \label{fig:Appendix_Dry TUBS S124 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 25 .}
+        \label{fig:Appendix_Dry TUBS S125 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Dry TUBS 0_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Dry TUBS S1 measurement 26 .}
+        \label{fig:Appendix_Dry TUBS S126 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 01 .}
+        \label{fig:Appendix_Ice Particles S101 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 02 .}
+        \label{fig:Appendix_Ice Particles S102 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 03 .}
+        \label{fig:Appendix_Ice Particles S103 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 04 .}
+        \label{fig:Appendix_Ice Particles S104 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 05 .}
+        \label{fig:Appendix_Ice Particles S105 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 06 .}
+        \label{fig:Appendix_Ice Particles S106 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 07 .}
+        \label{fig:Appendix_Ice Particles S107 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 08 .}
+        \label{fig:Appendix_Ice Particles S108 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 09 .}
+        \label{fig:Appendix_Ice Particles S109 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 10 .}
+        \label{fig:Appendix_Ice Particles S110 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 11 .}
+        \label{fig:Appendix_Ice Particles S111 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 12 .}
+        \label{fig:Appendix_Ice Particles S112 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 13 .}
+        \label{fig:Appendix_Ice Particles S113 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 14 .}
+        \label{fig:Appendix_Ice Particles S114 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 15 .}
+        \label{fig:Appendix_Ice Particles S115 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 16 .}
+        \label{fig:Appendix_Ice Particles S116 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 17 .}
+        \label{fig:Appendix_Ice Particles S117 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 18 .}
+        \label{fig:Appendix_Ice Particles S118 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 19 .}
+        \label{fig:Appendix_Ice Particles S119 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 20 .}
+        \label{fig:Appendix_Ice Particles S120 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 21 .}
+        \label{fig:Appendix_Ice Particles S121 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 22 .}
+        \label{fig:Appendix_Ice Particles S122 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 23 .}
+        \label{fig:Appendix_Ice Particles S123 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 24 .}
+        \label{fig:Appendix_Ice Particles S124 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 25 .}
+        \label{fig:Appendix_Ice Particles S125 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 26 .}
+        \label{fig:Appendix_Ice Particles S126 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 27 .}
+        \label{fig:Appendix_Ice Particles S127 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_28 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_28 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 28 .}
+        \label{fig:Appendix_Ice Particles S128 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_29 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Ice Particles 0_29 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Ice Particles S1 measurement 29 .}
+        \label{fig:Appendix_Ice Particles S129 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 01 .}
+        \label{fig:Appendix_Icy LHS-1 S101 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 02 .}
+        \label{fig:Appendix_Icy LHS-1 S102 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 03 .}
+        \label{fig:Appendix_Icy LHS-1 S103 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 04 .}
+        \label{fig:Appendix_Icy LHS-1 S104 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 05 .}
+        \label{fig:Appendix_Icy LHS-1 S105 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 06 .}
+        \label{fig:Appendix_Icy LHS-1 S106 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 07 .}
+        \label{fig:Appendix_Icy LHS-1 S107 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 08 .}
+        \label{fig:Appendix_Icy LHS-1 S108 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 09 .}
+        \label{fig:Appendix_Icy LHS-1 S109 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 10 .}
+        \label{fig:Appendix_Icy LHS-1 S110 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 11 .}
+        \label{fig:Appendix_Icy LHS-1 S111 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 12 .}
+        \label{fig:Appendix_Icy LHS-1 S112 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 13 .}
+        \label{fig:Appendix_Icy LHS-1 S113 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 14 .}
+        \label{fig:Appendix_Icy LHS-1 S114 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 15 .}
+        \label{fig:Appendix_Icy LHS-1 S115 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 16 .}
+        \label{fig:Appendix_Icy LHS-1 S116 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 17 .}
+        \label{fig:Appendix_Icy LHS-1 S117 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 18 .}
+        \label{fig:Appendix_Icy LHS-1 S118 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 19 .}
+        \label{fig:Appendix_Icy LHS-1 S119 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 20 .}
+        \label{fig:Appendix_Icy LHS-1 S120 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 21 .}
+        \label{fig:Appendix_Icy LHS-1 S121 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 22 .}
+        \label{fig:Appendix_Icy LHS-1 S122 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 23 .}
+        \label{fig:Appendix_Icy LHS-1 S123 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 24 .}
+        \label{fig:Appendix_Icy LHS-1 S124 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 25 .}
+        \label{fig:Appendix_Icy LHS-1 S125 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 26 .}
+        \label{fig:Appendix_Icy LHS-1 S126 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 27 .}
+        \label{fig:Appendix_Icy LHS-1 S127 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_28 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_28 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 28 .}
+        \label{fig:Appendix_Icy LHS-1 S128 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_29 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_29 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 29 .}
+        \label{fig:Appendix_Icy LHS-1 S129 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_30 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_30 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 30 .}
+        \label{fig:Appendix_Icy LHS-1 S130 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_31 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_31 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 31 .}
+        \label{fig:Appendix_Icy LHS-1 S131 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_32 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 0_32 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S1 measurement 32 .}
+        \label{fig:Appendix_Icy LHS-1 S132 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 01 .}
+        \label{fig:Appendix_Icy LHS-1 S201 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 02 .}
+        \label{fig:Appendix_Icy LHS-1 S202 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 03 .}
+        \label{fig:Appendix_Icy LHS-1 S203 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 04 .}
+        \label{fig:Appendix_Icy LHS-1 S204 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 05 .}
+        \label{fig:Appendix_Icy LHS-1 S205 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 06 .}
+        \label{fig:Appendix_Icy LHS-1 S206 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 07 .}
+        \label{fig:Appendix_Icy LHS-1 S207 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 08 .}
+        \label{fig:Appendix_Icy LHS-1 S208 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 09 .}
+        \label{fig:Appendix_Icy LHS-1 S209 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 10 .}
+        \label{fig:Appendix_Icy LHS-1 S210 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 11 .}
+        \label{fig:Appendix_Icy LHS-1 S211 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 12 .}
+        \label{fig:Appendix_Icy LHS-1 S212 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 13 .}
+        \label{fig:Appendix_Icy LHS-1 S213 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 14 .}
+        \label{fig:Appendix_Icy LHS-1 S214 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 15 .}
+        \label{fig:Appendix_Icy LHS-1 S215 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 16 .}
+        \label{fig:Appendix_Icy LHS-1 S216 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 17 .}
+        \label{fig:Appendix_Icy LHS-1 S217 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 18 .}
+        \label{fig:Appendix_Icy LHS-1 S218 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 19 .}
+        \label{fig:Appendix_Icy LHS-1 S219 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 20 .}
+        \label{fig:Appendix_Icy LHS-1 S220 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 21 .}
+        \label{fig:Appendix_Icy LHS-1 S221 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 22 .}
+        \label{fig:Appendix_Icy LHS-1 S222 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 23 .}
+        \label{fig:Appendix_Icy LHS-1 S223 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 24 .}
+        \label{fig:Appendix_Icy LHS-1 S224 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 25 .}
+        \label{fig:Appendix_Icy LHS-1 S225 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 26 .}
+        \label{fig:Appendix_Icy LHS-1 S226 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 27 .}
+        \label{fig:Appendix_Icy LHS-1 S227 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_28 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_28 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 28 .}
+        \label{fig:Appendix_Icy LHS-1 S228 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_29 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_29 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 29 .}
+        \label{fig:Appendix_Icy LHS-1 S229 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_30 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_30 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 30 .}
+        \label{fig:Appendix_Icy LHS-1 S230 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_31 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_31 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 31 .}
+        \label{fig:Appendix_Icy LHS-1 S231 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_32 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_32 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 32 .}
+        \label{fig:Appendix_Icy LHS-1 S232 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_33 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_33 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 33 .}
+        \label{fig:Appendix_Icy LHS-1 S233 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_34 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_34 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 34 .}
+        \label{fig:Appendix_Icy LHS-1 S234 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_35 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_35 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 35 .}
+        \label{fig:Appendix_Icy LHS-1 S235 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_36 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_36 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 36 .}
+        \label{fig:Appendix_Icy LHS-1 S236 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_37 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_37 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 37 .}
+        \label{fig:Appendix_Icy LHS-1 S237 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_38 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_38 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 38 .}
+        \label{fig:Appendix_Icy LHS-1 S238 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_39 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_39 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 39 .}
+        \label{fig:Appendix_Icy LHS-1 S239 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_40 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_40 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 40 .}
+        \label{fig:Appendix_Icy LHS-1 S240 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_41 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_41 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 41 .}
+        \label{fig:Appendix_Icy LHS-1 S241 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_42 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_42 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 42 .}
+        \label{fig:Appendix_Icy LHS-1 S242 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_43 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 1_43 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S2 measurement 43 .}
+        \label{fig:Appendix_Icy LHS-1 S243 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_01 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 01 .}
+        \label{fig:Appendix_Icy LHS-1 S301 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 02 .}
+        \label{fig:Appendix_Icy LHS-1 S302 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 03 .}
+        \label{fig:Appendix_Icy LHS-1 S303 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 04 .}
+        \label{fig:Appendix_Icy LHS-1 S304 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 05 .}
+        \label{fig:Appendix_Icy LHS-1 S305 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 06 .}
+        \label{fig:Appendix_Icy LHS-1 S306 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 07 .}
+        \label{fig:Appendix_Icy LHS-1 S307 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 08 .}
+        \label{fig:Appendix_Icy LHS-1 S308 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 09 .}
+        \label{fig:Appendix_Icy LHS-1 S309 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 10 .}
+        \label{fig:Appendix_Icy LHS-1 S310 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 11 .}
+        \label{fig:Appendix_Icy LHS-1 S311 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 12 .}
+        \label{fig:Appendix_Icy LHS-1 S312 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 13 .}
+        \label{fig:Appendix_Icy LHS-1 S313 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 14 .}
+        \label{fig:Appendix_Icy LHS-1 S314 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 15 .}
+        \label{fig:Appendix_Icy LHS-1 S315 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 16 .}
+        \label{fig:Appendix_Icy LHS-1 S316 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 17 .}
+        \label{fig:Appendix_Icy LHS-1 S317 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 18 .}
+        \label{fig:Appendix_Icy LHS-1 S318 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 19 .}
+        \label{fig:Appendix_Icy LHS-1 S319 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 20 .}
+        \label{fig:Appendix_Icy LHS-1 S320 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 21 .}
+        \label{fig:Appendix_Icy LHS-1 S321 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 22 .}
+        \label{fig:Appendix_Icy LHS-1 S322 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 23 .}
+        \label{fig:Appendix_Icy LHS-1 S323 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 24 .}
+        \label{fig:Appendix_Icy LHS-1 S324 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 25 .}
+        \label{fig:Appendix_Icy LHS-1 S325 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 26 .}
+        \label{fig:Appendix_Icy LHS-1 S326 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Icy LHS-1 2_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Icy LHS-1 S3 measurement 27 .}
+        \label{fig:Appendix_Icy LHS-1 S327 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_01 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            %\includegraphics[width=\textwidth]{}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 01 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S101 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_02 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_02 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 02 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S102 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_03 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_03 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 03 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S103 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_04 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_04 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 04 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S104 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_05 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_05 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 05 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S105 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_06 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_06 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 06 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S106 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_07 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_07 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 07 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S107 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_08 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_08 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 08 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S108 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_09 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_09 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 09 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S109 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_10 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_10 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 10 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S110 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_11 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_11 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 11 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S111 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_12 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_12 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 12 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S112 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_13 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_13 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 13 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S113 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_14 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_14 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 14 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S114 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_15 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_15 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 15 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S115 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_16 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_16 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 16 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S116 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_17 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_17 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 17 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S117 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_18 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_18 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 18 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S118 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_19 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_19 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 19 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S119 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_20 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_20 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 20 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S120 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_21 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_21 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 21 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S121 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_22 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_22 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 22 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S122 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_23 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_23 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 23 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S123 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_24 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_24 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 24 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S124 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_25 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_25 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 25 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S125 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_26 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_26 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 26 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S126 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_27 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_27 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 27 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S127 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_28 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_28 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 28 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S128 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_29 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_29 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 29 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S129 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_30 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_30 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 30 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S130 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_31 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_31 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 31 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S131 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_32 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_32 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 32 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S132 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_33 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_33 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 33 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S133 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_34 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_34 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 34 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S134 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_35 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_35 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 35 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S135 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_36 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_36 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 36 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S136 }
+    \end{figure}
+    
+    
+    \begin{figure}[htp!]
+        \centering
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_37 _correction.png}
+        \end{subfigure}
+        \hspace{\fill}
+        \begin{subfigure}{.47\textwidth}
+            \includegraphics[width=\textwidth]{01_Figures/Measurements/Appendix/Mud Pie 0_37 _evaluation.png}
+        \end{subfigure}
+        \caption{Sample Mud Pie LHS-1 S1 measurement 37 .}
+        \label{fig:Appendix_Mud Pie LHS-1 S137 }
+    \end{figure}
+    
+    

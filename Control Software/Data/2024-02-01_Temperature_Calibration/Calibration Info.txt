@@ -1,0 +1,7 @@
+01.02.2024 second calibration:
+THS R0: 6.0166 +- 0.003
+Pt-1000 R0 sample holder: 1000.785 +- 0.005
+
+first cal: 
+THS R0: 6.036 +- 0.007
+Pt-1000 R0 sample holder: 1000.46 +- 0.13

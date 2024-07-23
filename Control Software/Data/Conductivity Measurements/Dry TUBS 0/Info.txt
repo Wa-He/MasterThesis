@@ -1,0 +1,4 @@
+Pressure 001: 2024-04-27 15:47:00, 4.6E-2
+loose contact in between measurements, removed largest data spikes from .txt files
+THS stopped measuring at 2024-05-01 19:02, why? maybe not enough cpu after evaluation of measurements 
+TMP shut off at approx 09:25
