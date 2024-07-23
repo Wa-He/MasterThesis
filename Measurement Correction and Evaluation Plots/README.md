@@ -1,5 +1,9 @@
-This folder contains all plots created for the correction of temperature gradients and evaluation of the measurements.
-It is devided into subfolders for each sample analyzed. The properties of these samples are listed below.
+This directory contains all plots created for the correction of temperature gradients and evaluation of the measurements.
+The evaluation plots contain information on the thermal properties.
+The directory is devided into subfolders for each sample analyzed. The properties of these samples are listed below.
+
+Some measurements could not be corrected. In these cases, no evaluation file exists. 
+Other measurements could not be evaluated. In these cases, both files exist but the evaluation file is only showing the data.
 
 ## Sample properties of dry lunar regolith simulants
 
