@@ -16,8 +16,8 @@ class for control of TVAC heating/cooling systems
 class with PID functionality
 
 #### ArduinoRelay_Control:
-class to control a arduino to switch relays for the heating/cooling system of the TVAC<br>
-ArduinoRelay/ holds programming of the arduino as ArduinoRelay.ino
+class to control an arduino to switch relays for the heating/cooling system of the TVAC<br>
+ArduinoRelay/ holds programming of the arduino in the form of ArduinoRelay.ino
 
 #### USBRelay_Control:
 class to alternatively control relays with a USB relay instead of an arduino
