@@ -1,4 +1,4 @@
-# Correction and Evaluation Plot
+# Correction and Evaluation Plots
 
 This directory contains all plots created for the correction of temperature gradients and evaluation of the measurements.
 The evaluation plots contain information on the thermal properties.
